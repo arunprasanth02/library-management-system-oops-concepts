@@ -57,11 +57,3 @@ User Features
 - Return Book
 - View Books
 
-System Features
-- Login system for Admin and User
-- Book availability tracking
-- Borrow limit for members
-- Real-time data update
-
-## Project Structure
-
